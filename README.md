@@ -36,7 +36,7 @@ The mobile app interface includes features that support users in tracking their 
 > You can upload PNG/JPG images in an `images/` folder and display them like this:
 
 ```markdown
-![Login Screen](Login.png)
-![Calendar Feature](Chat Bot.png)
-![Chatbot UI](Blog.png)
-![Chatbot UI](Sign Up.png)
+![Login Screen](images/Login.png)
+![Calendar Feature](images/Chat Bot.png)
+![Chatbot UI](images/Blog.png)
+![Chatbot UI](images/Sign Up.png)
