@@ -31,13 +31,4 @@ The mobile app interface includes features that support users in tracking their 
 
 ---
 
-## 📸 Screenshots 
 
-
-
-```markdown
-https://imgur.com/x9IQD5T
-https://imgur.com/HikifO1
-https://imgur.com/3wfmNoK
-https://imgur.com/5bIO06c
-https://imgur.com/snKxYpA
