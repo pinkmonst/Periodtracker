@@ -33,7 +33,7 @@ The mobile app interface includes features that support users in tracking their 
 
 ## 📸 Screenshots 
 
-> You can upload PNG/JPG images in an `images/` folder and display them like this:
+
 
 ```markdown
 ![Login Screen](images/Login.png)
