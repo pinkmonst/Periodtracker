@@ -36,7 +36,8 @@ The mobile app interface includes features that support users in tracking their 
 
 
 ```markdown
-![Login Screen](images/login.png)
-![Calendar Feature](images/chatbot.png)
-![Chatbot UI](images/blog.png)
-![Chatbot UI](images/signup.png)
+https://imgur.com/x9IQD5T
+https://imgur.com/HikifO1
+https://imgur.com/3wfmNoK
+https://imgur.com/5bIO06c
+https://imgur.com/snKxYpA
